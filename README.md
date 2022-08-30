@@ -1,4 +1,4 @@
-### Hello Heres what am working on 
+### Hello, Heres what am working on 
 
 
 - 🔭 I’m currently working on ... Data Analysis with Microsoft PowerBI, Microsoft Excel 
